@@ -1,1 +1,3 @@
 # na3a-programmering
+
+Första lektionen, vi gjorde det här...
